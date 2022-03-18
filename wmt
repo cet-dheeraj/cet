@@ -1,8 +1,8 @@
 {
   "serverurl": "https://walmartds.ssdevrd.com",
-  "gid": "wmt_ae",
-  "un": "wmt_ae_%MODEL%",
-  "pw": "wmt_ae_%MODEL%",
+  "gid": "1001CA",
+  "un": "1001CA_%MODEL%",
+  "pw": "airwatch",
   "deviceModelsMap": {
     "G82": [
       "G8232",
@@ -15,6 +15,9 @@
     ],
     "TC51": [
       "TC51"
+    ],
+    "MC40": [
+      "MC40"
     ]
   }
 }
